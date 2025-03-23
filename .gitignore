@@ -1,0 +1,24 @@
+# Local
+__pycache__
+.DS_Store
+*.local
+*.log*
+.ipynb_checkpoints
+# Dist
+node_modules
+dist/
+lynx-devtool
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea
+data
+log
+tmp
+# Embedding data
+*.mp4
+*.json
+*.faiss
+*.wav
+*.jpg
+*.png
