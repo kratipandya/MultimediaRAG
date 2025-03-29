@@ -1,8 +1,6 @@
-![image](https://github.com/user-attachments/assets/449516d6-6c41-4ac1-8413-2d7156d9682c)
-
 # Project 17: Multimedia Large Language Model Applications with Multimedia Embedding RAG
 
-![gif](preview/preview.gif)
+![gif](preview/preview.gif))
 
 ## Abstract
 This project implements a multimodal Retrieval-Augmented Generation (RAG) search engine focused on scientific content from arXiv. The system allows users to search through research papers using text queries, image uploads, or audio inputs, and provides AI-generated answers based on relevant content. The architecture combines a React frontend with a Python backend using FAISS vector search and the DeepSeek R1 language model to deliver accurate, context-aware responses along with supporting scientific papers, images, audio files, and videos.
