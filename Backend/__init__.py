@@ -1,1 +1,0 @@
-from .RAGembedder.multi_modal_embedder import MultimodalEmbedder
