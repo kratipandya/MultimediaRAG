@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/449516d6-6c41-4ac1-8413-2d7156d9682c)
 
 # Project 17: Multimedia Large Language Model Applications with Multimedia Embedding RAG
 
